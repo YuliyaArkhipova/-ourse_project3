@@ -18,7 +18,7 @@ macOS и Linux: `source venv/bin/activate`
 `python -m pip install -r requirements.txt`  
 5. Запустите 'main.py'  
    
-_Пример вывода для одной операции:_  
+#### Пример вывода для одной операции:
 _07.12.2019 Перевод организации  
 Visa Classic 2842 87** **** 9012 -> Счет **3655  
 48150.39 USD_  
