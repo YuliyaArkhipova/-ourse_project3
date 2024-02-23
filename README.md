@@ -7,19 +7,18 @@
 <сумма перевода> <валюта>  
 
 ## Инструкция по запуску
-1. Клонируйте данный репозиторий на свой локальный компьютер
-`git clone https://github.com/YuliyaArkhipova/Course_project3`
-2. Установите виртуальное окружение
-`python3 -m venv venv`
-3. Активируйте виртуальное окружение
-Windows: `venv\Scripts\activate`
-macOS и Linux: `source venv/bin/activate`
-4. Установите необходимые для работы библиотеки, указанные в requirements.txt
-`python -m pip install -r requirements.txt`
-5. Запустите 'main.py'
+1. Клонируйте данный репозиторий на свой локальный компьютер  
+`git clone https://github.com/YuliyaArkhipova/Course_project3`  
+2. Установите виртуальное окружение  
+`python3 -m venv venv`  
+3. Активируйте виртуальное окружение  
+Windows: `venv\Scripts\activate`  
+macOS и Linux: `source venv/bin/activate`  
+4. Установите необходимые для работы библиотеки, указанные в requirements.txt  
+`python -m pip install -r requirements.txt`  
+5. Запустите 'main.py'  
    
 _Пример вывода для одной операции:_
-
 _07.12.2019 Перевод организации  
 Visa Classic 2842 87** **** 9012 -> Счет **3655  
 48150.39 USD_  
